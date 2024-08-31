@@ -20,7 +20,6 @@ SurveyGram is an innovative survey platform built with a Django backend and a Re
   - [Schema Overview](#schema-overview)
   - [Tables and Relationships](#tables-and-relationships)
   - [Indexing and Optimization](#indexing-and-optimization)
-  - [Data Backup and Recovery](#data-backup-and-recovery)
 - [State Management](#state-management)
 - [Authentication and Authorization](#authentication-and-authorization)
 - [API Documentation](#api-documentation)
@@ -218,9 +217,6 @@ The SurveyGram platform uses a relational database structure with the following 
 - **Indexing**: Key indexes are applied to frequently queried fields such as `user_id`, `company_id`, and `survey_id`.
 - **Optimization**: Query optimization techniques, such as `select_related` and `prefetch_related`, are employed to minimize database hits.
 
-### Data Backup and Recovery
-
-Regular database backups are scheduled using cron jobs, and recovery strategies are in place to restore data in case of corruption or loss.
 
 ## State Management
 
