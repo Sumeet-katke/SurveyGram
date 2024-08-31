@@ -36,11 +36,13 @@ SurveyGram is an innovative survey platform built with a Django backend and a Re
   - [Unit Testing](#unit-testing)
   - [Integration Testing](#integration-testing)
 - [Acknowledgments](#acknowledgments)
-
+- [Documents](#documents)
 
 ## Important Note
 
-Currently SurveyGram is not licensed under any specific clause. To protect it from piracy and intellectual theft, I, Sumeet Katke, the team leader and owner of this repository, have decided not to disclose the source code. The repository includes proprietary components such as a `Custom State Manager`, `Custom SurveyCard Loading`, `Data Security Methodologies`, and `Database Schema` and many others, which constitute as my intellectual property. The usage methods provided further may fail due to unavalabilty of source code in the repository. 
+Currently SurveyGram is not licensed under any specific clause. To protect it from piracy and intellectual theft, I, Sumeet Katke, the team leader and owner of this repository, have decided not to disclose the source code. The repository includes proprietary components such as a `Custom State Manager`, `Custom SurveyCard Loading`, `Data Security Methodologies`, and `Database Schema` and many others, which constitute as my intellectual property. We will soon make it open-source and allow contributers to help us enhance our platform.
+
+_The usage methods provided further may fail due to unavalabilty of source code in the repository._
 ### Educational Use
 However, to support individuals who aim to use this for educational purposes, exceptions may be considered. If you are interested in using this repository for learning, please feel free to contact me via [LinkedIn](www.linkedin.com/in/sumeetkatke) or [email](mailto:snkatke9874@gmail.com). Your interest and commitment to learning are always appreciated.
 
@@ -359,7 +361,8 @@ Integration tests are to be conducted to ensure that different modules of the pl
 
 We would like to thank all contributors, users, and supporters of SurveyGram. Your feedback and contributions are invaluable to the continuous improvement of this platform.
 
-
+## Documents
+A detailed report and several other key documentations including the schematics  are included for an in-depth understanding. Please refer them
 
 --- 
 
