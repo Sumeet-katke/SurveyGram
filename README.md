@@ -121,7 +121,7 @@ Before you begin, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/surveygram.git
+git clone https://github.com/Sumeet-katke/SurveyGram
 cd surveygram
 ```
 ### Backend Setup
