@@ -3,7 +3,8 @@
 SurveyGram is an innovative survey platform built with a Django backend and a React frontend. It allows companies to post surveys and users to complete them in exchange for various rewards, including cash, coupons, and credits. This platform aims to bridge the gap between businesses seeking valuable insights and users who wish to earn rewards for their time and opinions.
 
 ## Table of Contents
-- [Team SurveyGram](#)
+- [Important Note](#important-note)
+- [Team SurveyGram](#meet-the-team)
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -35,12 +36,17 @@ SurveyGram is an innovative survey platform built with a Django backend and a Re
   - [Unit Testing](#unit-testing)
   - [Integration Testing](#integration-testing)
 - [Acknowledgments](#acknowledgments)
-#
 
 
-# The SurveyGram Team
+## Important Note
+
+Currently SurveyGram is not licensed under any specific clause. To protect it from piracy and intellectual theft, I, Sumeet Katke, the team leader and owner of this repository, have decided not to disclose the source code. The repository includes proprietary components such as a `Custom State Manager`, `Custom SurveyCard Loading`, `Data Security Methodologies`, and `Database Schema` and many others, which constitute as my intellectual property. The usage methods provided further may fail due to unavalabilty of source code in the repository. 
+### Educational Use
+However, to support individuals who aim to use this for educational purposes, exceptions may be considered. If you are interested in using this repository for learning, please feel free to contact me via [LinkedIn](www.linkedin.com/in/sumeetkatke) or [email](mailto:snkatke9874@gmail.com). Your interest and commitment to learning are always appreciated.
+
+# Meet the Team
 ## Guide:
-###  Ms. Martha Simon [[LinkedIn]](https://www.linkedin.com/in/martha-simon-5511141bb/)
+###  Miss. Martha Simon [[LinkedIn]](https://www.linkedin.com/in/martha-simon-5511141bb/)
 - Assistant Professor at MVJ College of Engineering
 - Team guide and supervisor. 
 - Continuous support and collaborative brainstorming, which provided invaluable insights and significantly contributed to the development process.
@@ -54,20 +60,19 @@ SurveyGram is an innovative survey platform built with a Django backend and a Re
 - Developed custom state manager `stateContext` for ReactJS
 - Lead the front-end team while handling complete respondent module 
 - Will Handle the complete `Docker` setup
-
-### 2. Pragati Talekar [[LinkedIn]]()
+---
+### 2. Pragati Talekar [[LinkedIn]](https://www.linkedin.com/in/pragatitalekar/)
 
 - Responsible for Wireframes and Mockups
 - Key role in Front-end Development
 - Handled majority of the styling
 
-### 3. Suren Joshi [[LinkedIn]]()
+### 3. Suren Joshi [[LinkedIn]](https://www.linkedin.com/in/surenjoshi/)
 
 - Assistance in data profiling segment
 - Tester 
 
-### 4. Vaibhav Kumar P [[LinkedIn]]()
-
+### 4. Vaibhav Kumar P [[LinkedIn]](). 
 - Responsible for `Data Profiling Module` in current version
 - lead the `analysis module` team for SurveyGram 2.0
 - Tester
@@ -353,3 +358,9 @@ Integration tests are to be conducted to ensure that different modules of the pl
 ## Acknowledgments
 
 We would like to thank all contributors, users, and supporters of SurveyGram. Your feedback and contributions are invaluable to the continuous improvement of this platform.
+
+
+
+--- 
+
+Feedbacks, suggestions or contributions are always welcomed!! 
