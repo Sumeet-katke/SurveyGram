@@ -75,6 +75,7 @@ However, to support individuals who aim to use this for educational purposes, ex
 - Tester 
 
 ### 4. Vaibhav Kumar P [[LinkedIn]](). 
+- Inital theme and activity flow pitcher
 - Responsible for `Data Profiling Module` in current version
 - lead the `analysis module` team for SurveyGram 2.0
 - Tester
